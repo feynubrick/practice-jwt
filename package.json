@@ -1,0 +1,17 @@
+{
+  "name": "jwt-manage",
+  "version": "1.0.0",
+  "description": "JWT 모듈의 기능을 이것저것 테스트해보기 위한 프로젝트입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Seung-Yoon Oh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
